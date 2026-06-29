@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Bisnis ERP",
+  "description": "Aplikasi manajemen bisnis ERP SaaS lengkap dengan Dasbor, Stok Barang, Pembuat Faktur, Pelacak Keuangan, Manajemen Pelanggan (CRM), dan Analis Bisnis berbasis Kecerdasan Buatan (Gemini AI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
